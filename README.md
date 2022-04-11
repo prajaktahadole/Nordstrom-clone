@@ -3,18 +3,6 @@ As a part of Unit-4 Construct Week Project. We have cloned Nordstrom Website.
 
 # Demo Link : https://endearing-mooncake-6d1eb8.netlify.app/
 
-## Team Size
-6
-
-## Team Members
-1. Jaiprakash Gupta
-2. Rupesh Raikwar
-3. Prajakta Hadole
-4. Sagar Gulia
-5. Sharan Dooganavar
-6. Neha Sen
-
-
 ## About Project
 Nordstrom is an international Online Shopping Store. Founded in 1901 by John W. Nordstrom and Carl F. Wallin, it originated as a shoe store and evolved into a full-line retailer with departments for clothing, footwear, handbags, jewelry, accessories, cosmetics, and fragrances. As of 2021, Nordstrom operates 100 stores in 32 U.S. states, and three Canadian provinces since entering the market in 2014. One location in Puerto Rico was in operation from 2015 through 2020. We have tried to build the perfect clone of the website.
 
