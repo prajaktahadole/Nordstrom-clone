@@ -9,23 +9,21 @@ function header() {
             <p>India</p>
         </div>
     </div>
+
     <div id="navbar_div2">
+
         <a href="../index.html">
             <img src="https://n.nordstrommedia.com/alias/nordstrom-logo.svg" id="logo_img" alt="">
         </a>
 
-        <div id="search_div">
-            <div>
-                <img src="../img/search_icon.png" id="searach_icon" alt="">
-                <p>Search</p>
-            </div>
-
+        <div>
+              <img src="../img/search_icon.png" id="searach_icon" alt="">
+              <p>Search</p>
         </div>
+
         <a href="./Html/register.html" id="signup_a">
         <div id="register_div">
             <p>Sign In </p>
-            <p>╲╱</p>
-
         </div>
         </a>
 
@@ -37,8 +35,9 @@ function header() {
                 <div id="cartNo_div">0</div>
                 </a>
         </div>
-
     </div>
+
+
 
     <div id="navbar_div3">
         <div id="sale_h">Sale</div>

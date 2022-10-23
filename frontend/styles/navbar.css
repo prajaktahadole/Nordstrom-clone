@@ -6,6 +6,7 @@ body {
     padding: 0;
     font-family: 'Quicksand', sans-serif;
     letter-spacing: 0.1px;
+    width: 100%;
 
 }
 
@@ -21,36 +22,35 @@ body {
 }
 
 #navbar_div1 {
+    font-size: 18px;
+    font-weight: 400;
     background-color: black;
-    height: 30px;
+    height: 25px;
     color: white;
     display: flex;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
 }
 
-#navbar_div1_div1 {
-    font-weight: 600;
-    font-size: 13px;
-    text-align: center;
-    width: 90%;
-    margin-top: 6px;
+#navbar_div1_div1 { 
+   width: 90%;  
 }
 
 #navbar_div1_div2 {
     width: 60px;
-    color: white;
     display: flex;
 }
 
 #flag_img {
-    height: 15px;
-    width: 15px;
-    border-radius: 5px;
-    margin-top: 8px;
-    margin-right: 6px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
 }
 
 #navbar_div1_div2>p {
-    margin-top: 5px;
+    margin-top: 3px;
+   margin-left: 7px;
 }
 
 #navbar_div2 {
